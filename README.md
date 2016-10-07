@@ -2,11 +2,11 @@ Name:Zele Dong
 Email:zeled3813@hstat.org
 School:High of Telecommunication Arts and Technology(HSTAT)
 Schedule
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1.Alg2
+2.APUSH
+3.HoEng
+4.Phys
+5.SEP
+6.Lunch
+7.Health
+8.Espanol
