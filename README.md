@@ -13,7 +13,8 @@
   8. Spanish
 <br/>
 <br/>
-### _Random Things_
+
+#### Random Things
 * [Link to my portfolio](https://sites.google.com/a/hstat.org/zeled3813sep11/)
 * Favorite Color:Light Blue
 * Hobby:Play Basketball,Watch Anime,etc.
